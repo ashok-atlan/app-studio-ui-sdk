@@ -12,7 +12,7 @@
     "lib/utils": {
         "name": "lib/utils",
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "defaultScope": "ashok-atlan.ui-sdk",
         "mainFile": "index.ts",
         "rootDir": "ui-sdk/lib/utils"
@@ -20,7 +20,7 @@
     "ui/accordion": {
         "name": "ui/accordion",
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "defaultScope": "ashok-atlan.ui-sdk",
         "mainFile": "index.ts",
         "rootDir": "ui-sdk/ui/accordion"
@@ -28,7 +28,7 @@
     "ui/alert": {
         "name": "ui/alert",
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "defaultScope": "ashok-atlan.ui-sdk",
         "mainFile": "index.ts",
         "rootDir": "ui-sdk/ui/alert"
@@ -36,7 +36,7 @@
     "ui/alert-dialog": {
         "name": "ui/alert-dialog",
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "defaultScope": "ashok-atlan.ui-sdk",
         "mainFile": "index.ts",
         "rootDir": "ui-sdk/ui/alert-dialog"
@@ -44,7 +44,7 @@
     "ui/avatar": {
         "name": "ui/avatar",
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "defaultScope": "ashok-atlan.ui-sdk",
         "mainFile": "index.ts",
         "rootDir": "ui-sdk/ui/avatar"
@@ -52,7 +52,7 @@
     "ui/badge": {
         "name": "ui/badge",
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "defaultScope": "ashok-atlan.ui-sdk",
         "mainFile": "index.ts",
         "rootDir": "ui-sdk/ui/badge"
@@ -60,7 +60,7 @@
     "ui/breadcrumb": {
         "name": "ui/breadcrumb",
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "defaultScope": "ashok-atlan.ui-sdk",
         "mainFile": "index.ts",
         "rootDir": "ui-sdk/ui/breadcrumb"
@@ -68,7 +68,7 @@
     "ui/button": {
         "name": "ui/button",
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "defaultScope": "ashok-atlan.ui-sdk",
         "mainFile": "index.ts",
         "rootDir": "ui-sdk/ui/button"
@@ -76,7 +76,7 @@
     "ui/calendar": {
         "name": "ui/calendar",
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "defaultScope": "ashok-atlan.ui-sdk",
         "mainFile": "index.ts",
         "rootDir": "ui-sdk/ui/calendar"
@@ -84,7 +84,7 @@
     "ui/card": {
         "name": "ui/card",
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "defaultScope": "ashok-atlan.ui-sdk",
         "mainFile": "index.ts",
         "rootDir": "ui-sdk/ui/card"
@@ -92,7 +92,7 @@
     "ui/checkbox": {
         "name": "ui/checkbox",
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "defaultScope": "ashok-atlan.ui-sdk",
         "mainFile": "index.ts",
         "rootDir": "ui-sdk/ui/checkbox"
@@ -100,7 +100,7 @@
     "ui/collapsible": {
         "name": "ui/collapsible",
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "defaultScope": "ashok-atlan.ui-sdk",
         "mainFile": "index.ts",
         "rootDir": "ui-sdk/ui/collapsible"
@@ -108,7 +108,7 @@
     "ui/command": {
         "name": "ui/command",
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "defaultScope": "ashok-atlan.ui-sdk",
         "mainFile": "index.ts",
         "rootDir": "ui-sdk/ui/command"
@@ -116,7 +116,7 @@
     "ui/context-menu": {
         "name": "ui/context-menu",
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "defaultScope": "ashok-atlan.ui-sdk",
         "mainFile": "index.ts",
         "rootDir": "ui-sdk/ui/context-menu"
@@ -124,7 +124,7 @@
     "ui/dialog": {
         "name": "ui/dialog",
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "defaultScope": "ashok-atlan.ui-sdk",
         "mainFile": "index.ts",
         "rootDir": "ui-sdk/ui/dialog"
@@ -132,7 +132,7 @@
     "ui/dropdown-menu": {
         "name": "ui/dropdown-menu",
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "defaultScope": "ashok-atlan.ui-sdk",
         "mainFile": "index.ts",
         "rootDir": "ui-sdk/ui/dropdown-menu"
@@ -140,7 +140,7 @@
     "ui/input": {
         "name": "ui/input",
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "defaultScope": "ashok-atlan.ui-sdk",
         "mainFile": "index.ts",
         "rootDir": "ui-sdk/ui/input"
@@ -148,7 +148,7 @@
     "ui/label": {
         "name": "ui/label",
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "defaultScope": "ashok-atlan.ui-sdk",
         "mainFile": "index.ts",
         "rootDir": "ui-sdk/ui/label"
@@ -156,7 +156,7 @@
     "ui/popover": {
         "name": "ui/popover",
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "defaultScope": "ashok-atlan.ui-sdk",
         "mainFile": "index.ts",
         "rootDir": "ui-sdk/ui/popover"
@@ -164,7 +164,7 @@
     "ui/progress": {
         "name": "ui/progress",
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "defaultScope": "ashok-atlan.ui-sdk",
         "mainFile": "index.ts",
         "rootDir": "ui-sdk/ui/progress"
@@ -172,7 +172,7 @@
     "ui/radio-group": {
         "name": "ui/radio-group",
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "defaultScope": "ashok-atlan.ui-sdk",
         "mainFile": "index.ts",
         "rootDir": "ui-sdk/ui/radio-group"
@@ -180,7 +180,7 @@
     "ui/scroll-area": {
         "name": "ui/scroll-area",
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "defaultScope": "ashok-atlan.ui-sdk",
         "mainFile": "index.ts",
         "rootDir": "ui-sdk/ui/scroll-area"
@@ -188,7 +188,7 @@
     "ui/select": {
         "name": "ui/select",
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "defaultScope": "ashok-atlan.ui-sdk",
         "mainFile": "index.ts",
         "rootDir": "ui-sdk/ui/select"
@@ -196,7 +196,7 @@
     "ui/separator": {
         "name": "ui/separator",
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "defaultScope": "ashok-atlan.ui-sdk",
         "mainFile": "index.ts",
         "rootDir": "ui-sdk/ui/separator"
@@ -204,7 +204,7 @@
     "ui/sheet": {
         "name": "ui/sheet",
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "defaultScope": "ashok-atlan.ui-sdk",
         "mainFile": "index.ts",
         "rootDir": "ui-sdk/ui/sheet"
@@ -212,7 +212,7 @@
     "ui/skeleton": {
         "name": "ui/skeleton",
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "defaultScope": "ashok-atlan.ui-sdk",
         "mainFile": "index.ts",
         "rootDir": "ui-sdk/ui/skeleton"
@@ -220,7 +220,7 @@
     "ui/slider": {
         "name": "ui/slider",
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "defaultScope": "ashok-atlan.ui-sdk",
         "mainFile": "index.ts",
         "rootDir": "ui-sdk/ui/slider"
@@ -228,7 +228,7 @@
     "ui/sonner": {
         "name": "ui/sonner",
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "defaultScope": "ashok-atlan.ui-sdk",
         "mainFile": "index.ts",
         "rootDir": "ui-sdk/ui/sonner"
@@ -236,7 +236,7 @@
     "ui/switch": {
         "name": "ui/switch",
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "defaultScope": "ashok-atlan.ui-sdk",
         "mainFile": "index.ts",
         "rootDir": "ui-sdk/ui/switch"
@@ -244,7 +244,7 @@
     "ui/table": {
         "name": "ui/table",
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "defaultScope": "ashok-atlan.ui-sdk",
         "mainFile": "index.ts",
         "rootDir": "ui-sdk/ui/table"
@@ -252,7 +252,7 @@
     "ui/tabs": {
         "name": "ui/tabs",
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "defaultScope": "ashok-atlan.ui-sdk",
         "mainFile": "index.ts",
         "rootDir": "ui-sdk/ui/tabs"
@@ -260,7 +260,7 @@
     "ui/textarea": {
         "name": "ui/textarea",
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "defaultScope": "ashok-atlan.ui-sdk",
         "mainFile": "index.ts",
         "rootDir": "ui-sdk/ui/textarea"
@@ -268,7 +268,7 @@
     "ui/theme-provider": {
         "name": "ui/theme-provider",
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "defaultScope": "ashok-atlan.ui-sdk",
         "mainFile": "index.ts",
         "rootDir": "ui-sdk/ui/theme-provider"
@@ -276,7 +276,7 @@
     "ui/tooltip": {
         "name": "ui/tooltip",
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "defaultScope": "ashok-atlan.ui-sdk",
         "mainFile": "index.ts",
         "rootDir": "ui-sdk/ui/tooltip"
