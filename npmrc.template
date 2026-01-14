@@ -1,0 +1,7 @@
+# GitHub Packages registry for your org
+@ashok-atlan:registry=https://npm.pkg.github.com
+//npm.pkg.github.com/:_authToken=${GITHUB_TOKEN}
+
+# Bit Cloud registry for teambit dependencies
+@teambit:registry=https://node-registry.bit.cloud
+@bitdev:registry=https://node-registry.bit.cloud

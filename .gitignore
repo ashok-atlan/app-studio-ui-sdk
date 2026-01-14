@@ -1,0 +1,23 @@
+# Bit generated files
+node_modules/
+.bit/
+dist/
+public/
+*.log
+
+# Package managers
+pnpm-lock.yaml
+
+# OS files
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment
+.env
+.env.local
+.npmrc
